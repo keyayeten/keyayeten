@@ -1,7 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://git.io/typing-svg)
 
-My stack: ![Static Badge](https://img.shields.io/badge/Python-brightgreen?style=plastic&labelColor=%234940f5&color=%234940f5) ![Static Badge](https://img.shields.io/badge/Django-brightgreen?style=plastic&labelColor=%2373ff00&color=%2373ff00)
-
+My stack: ![Static Badge](https://img.shields.io/badge/Python-brightgreen?style=plastic&color=%23011e85) ![Static Badge](https://img.shields.io/badge/FastAPI-brightgreen?style=plastic&color=%2300ff77) ![Static Badge](https://img.shields.io/badge/Django-brightgreen?style=plastic&color=%2301853f) 
 
 
 
