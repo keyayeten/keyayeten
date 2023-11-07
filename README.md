@@ -4,7 +4,6 @@ My stack: ![Static Badge](https://img.shields.io/badge/Python-brightgreen?style=
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keyayeten&theme=cobalt)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keyayeten&theme=cobalt)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keyayeten&theme=cobalt) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keyayeten&theme=cobalt)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keyayeten?theme=dark&font=Fraunces&ext=activity)
